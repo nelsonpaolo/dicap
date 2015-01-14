@@ -1,0 +1,25 @@
+input[type="checkbox"] {
+   transform:scale(1.5);
+   -ms-transform:scale(1.5); /* IE 9 */
+   -moz-transform:scale(1.5); /* Firefox */
+   -webkit-transform:scale(1.5); /* Safari and Chrome */
+   -o-transform:scale(1.5); /* Opera */
+}
+input[type="radio"] {
+   transform:scale(1.5);
+   -ms-transform:scale(1.5); /* IE 9 */
+   -moz-transform:scale(1.5); /* Firefox */
+   -webkit-transform:scale(1.5); /* Safari and Chrome */
+   -o-transform:scale(1.5); /* Opera */
+}
+.mayusculas {
+   text-transform: uppercase;
+}
+
+ul li a {
+   display:block;
+}
+
+ul li a:hover, ul li a:focus {
+   color: #FF8000
+}
